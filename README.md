@@ -50,9 +50,19 @@ This site is organized into separate pages for each section. Click the links bel
 [Contact](contact.md)
 
 </div>
-```
+<div align="center">
+
+<a href="README.md">Home</a> |
+<a href="pages/professional-experience.md">Professional Experience</a> |
+<a href="pages/projects.md">Projects</a> |
+<a href="pages/publications.md">Publications</a> |
+<a href="pages/cv.md">CV</a> |
+<a href="README.md">Contact</a>
+
+</div>
+
 ## <a name="home"></a>Home
----
+
 
 
 ## <a name="professional-experience"></a>Professional Experience
